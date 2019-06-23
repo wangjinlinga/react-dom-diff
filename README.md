@@ -1,5 +1,7 @@
 # react-dom-diff
 
+react dom diff 详解
+
 ## Project setup
 ```
 yarn install
